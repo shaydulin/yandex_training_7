@@ -1,0 +1,7 @@
+{
+    "python.testing.pytestArgs": [
+        "warm_up"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
